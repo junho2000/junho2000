@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jhk00@kookmin.ac.kr**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/13q9FmzsBvVL2xGZUSBvTFffk9gHjrFiT/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1IAMfJukerFM10c0zSgRlG-UWDLYLBE-g/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
