@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SEA:ME](https://github.com/junho2000/Embedded-Systems)
 
-- 🌱 I’m currently learning ** TinyML, OOP, SDV ...**
+- 🌱 I’m currently learning **TinyML, OOP, SDV ...**
 
 - 📫 How to reach me **jhk00@kookmin.ac.kr**
 
